@@ -54,6 +54,7 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 | | Role |
 |---|---|
 | **Instructor** | Earth Lab Earth Data Science Graduate Certificate, ESIIL Stars, Data Short Course, CU Boulder |
+| **Principal Investigator** | Shadow Ecology: Model Residuals as Signal, CIRES, CU Boulder |
 | **Owner / Data Scientist** | Daear Consulting, LLC | USDA-NIFA grant with Oglala Lakota College |
 | **Former Faculty** | Oglala Lakota College |
 | **Former Technical Lead** | Maka Sitomniye Working Group |
