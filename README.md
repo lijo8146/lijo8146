@@ -69,3 +69,4 @@ South Dakota School of Mines and Technology
 **BS, Interdisciplinary Earth and Environmental Sciences** · 2013  
 Oglala Lakota College
 
+If you're looking for my "old" GitHub, find it here **[Yawapi](https://github.com/Yawapi)**
