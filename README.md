@@ -28,7 +28,7 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 ## Tools & Stack
 
 **Languages & Environments**  
-`Python` `R` `Bash` `Jupyter` `VSCode`
+`Python` `R` `C` `Bash` `Jupyter` `VSCode`
 
 **Geospatial**  
 `GDAL/OGR` `rasterio` `geopandas` `shapely` `fiona` `earthpy` `ArcGIS` `QGIS`
