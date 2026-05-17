@@ -18,7 +18,7 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 - Hydrogeologic and Earth systems modeling
 - Fire–vegetation predictive modeling
 - Multispectral remote sensing integration
-- Geospatial structure in model residuals (data/sensor-poor environments)
+- Geospatial structure in model residuals
 - Geospatial data engineering & data cubes
 - Environmental hazard risk modeling
 - Reproducible computational workflows
