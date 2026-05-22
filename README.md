@@ -60,7 +60,6 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 | **Owner / Data Scientist** | Daear Consulting, LLC USDA-NIFA grant with Oglala Lakota College |
 | **Participant**            | American Geophysical Union *Voices in Science*                   |
 | **Former Faculty**         | Oglala Lakota College                                              |
-| **Former Technical Lead**  | Maka Sitomniye Working Group                                       |
 
 ## Education
 **PhD, Geology and Geological Engineering** · 2021  
