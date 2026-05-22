@@ -10,7 +10,7 @@ I am a hydrogeologist and environmental hazards modeler working at CIRES Earth a
 
 Current CIRES-funded research includes Shadow Ecology - a deep learning method I'm developing to investigate whether model residuals can be leveraged to improve predictions in data- and sensor-poor regions.
 
-I am also the owner and primary data scientist of **[Daear Consulting, LLC](https://github.com/daearconsulting)**, currently partnering with **[Oglala Lakota College](https://github.com/olc-techsupport)** on a USDA-NIFA funded grant to build hydrologic and agricultural data cubes for analysis, teaching, and Tribal data sovereignty workflows.
+I am also the co-owner and primary data scientist of **[Daear Consulting, LLC](https://github.com/daearconsulting)**, currently partnering with **[Oglala Lakota College](https://github.com/olc-techsupport)** on a USDA-NIFA funded grant to build hydrologic and agricultural data cubes for analysis, teaching, and Tribal data sovereignty workflows.
 
 As a Tribal college graduate and former Tribal college faculty member at Oglala Lakota College, I am committed to sovereignty-aligned workflows and reproducible science that centers Tribal partners in environmental research.
 
