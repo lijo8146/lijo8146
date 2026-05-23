@@ -31,7 +31,7 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 `Python` `R` `C` `Bash` `Jupyter` `VSCode` `Fortran`
 
 **Geospatial**  
-`GDAL/OGR` `rasterio` `geopandas` `shapely` `fiona` `earthpy` `ArcGIS` `QGIS` `earthaccess`
+`GDAL/OGR` `rasterio` `geopandas` `shapely` `fiona` `earthpy` `ArcGIS` `QGIS` 
 
 **Data & Compute**  
 `xarray` `zarr` `Dask` `pandas` `numpy`
