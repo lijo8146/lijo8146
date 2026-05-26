@@ -25,6 +25,10 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 - Tribal Data Science
 - Tribal Data Sovereignty
 
+## Games
+
+I created a series exploring common gaming algorithms and systems design concepts here: [Systems at Play](https://github.com/lijo8146/systems_at_play)
+
 ## Tools & Stack
 
 **Languages & Environments**  
