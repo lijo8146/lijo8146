@@ -14,6 +14,14 @@ I am also the co-owner and primary data scientist of **[Daear Consulting, LLC](h
 
 As a Tribal college graduate and former Tribal college faculty member at Oglala Lakota College, I am committed to sovereignty-aligned workflows and reproducible science that centers Tribal partners in environmental research.
 
+## Portfolio
+
+| Focus | Featured work | What it offers |
+|---|---|---|
+| Teach | [Systems at Play](https://github.com/lijo8146/systems_at_play) · [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | Accessible, reusable computational learning materials that connect code, modeling, and systems thinking for students and interdisciplinary learners. |
+| Research | [Spectral Library Notebook](https://github.com/lijo8146/Spectral_library.ipynb) | A transparent example of geospatial and remote-sensing analysis, with an emphasis on reproducible workflows and interpretable computational methods. |
+| Collaborate | [Daear Consulting](https://daearconsulting.com/) · [Oglala Lakota College](https://github.com/olc-techsupport) | Partnership-oriented data science and educational projects grounded in reproducibility, practical learning, and sovereignty-aligned environmental research. |
+
 ## Research Focus
 - Hydrogeologic and Earth systems modeling
 - Fire–vegetation predictive modeling
