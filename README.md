@@ -19,7 +19,7 @@ As a Tribal college graduate and former Tribal college faculty member at Oglala 
 | Focus | Featured work | What it offers |
 |---|---|---|
 | Teach | [Systems at Play](https://github.com/lijo8146/systems_at_play) · [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | Accessible, reusable computational learning materials that connect code, modeling, and systems thinking for students and interdisciplinary learners. |
-| Research | [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) | [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | Examples of geospatial and remote-sensing analysis, with an emphasis on reproducible workflows and interpretable computational methods. |
+| Research | [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) · [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | Examples of geospatial and remote-sensing analysis, with an emphasis on reproducible workflows and interpretable computational methods. |
 | Collaborate | [Daear Consulting](https://daearconsulting.com/) · [Oglala Lakota College](https://github.com/olc-techsupport) | Partnership-oriented data science and educational projects grounded in reproducibility, practical learning, and sovereignty-aligned environmental research. |
 
 ## Research Focus
