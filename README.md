@@ -42,7 +42,7 @@ I created a series exploring common gaming algorithms and systems design concept
 ## Tools & Stack
 
 **Languages & Environments**  
-`Python (advanced)` `R (basic)` `C (intermediate)` `Fortran (basic)` `Bash` `SQL/MySQL (intermediate)` `Jupyter` `VS Code` `Linux`
+`Python` `R` `C` `Fortran` `Bash` `SQL/MySQL` `Jupyter` `VS Code` `Linux`
 
 **Geospatial**  
 `ArcGIS Pro` `QGIS` `GDAL/OGR` `Rasterio` `GeoPandas` `Shapely` `Fiona` `PyProj` `rtree` `OSMnx` `H3` `GeoPy` `GeoTessera` `GeoTessellation` `Contextily` `PyDeck` `Datashader` `ENVI` `EarthPy` `Remote Sensing` `AlphaEarth Foundations`
