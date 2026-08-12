@@ -39,29 +39,37 @@ I created a series exploring common gaming algorithms and systems design concept
 
 ## Tools & Stack
 
+## Tools & Stack
+
 **Languages & Environments**  
-`Python` `R` `C` `Bash` `Jupyter` `VSCode` `Fortran`
+`Python (advanced)` `R (basic)` `C (intermediate)` `Fortran (basic)` `Bash` `SQL/MySQL (intermediate)` `Jupyter` `VS Code` `Linux`
 
 **Geospatial**  
-`GDAL/OGR` `rasterio` `geopandas` `shapely` `fiona` `earthpy` `ArcGIS` `QGIS` 
+`ArcGIS Pro` `QGIS` `GDAL/OGR` `Rasterio` `GeoPandas` `Shapely` `Fiona` `PyProj` `rtree` `OSMnx` `H3` `GeoPy` `GeoTessera` `GeoTessellation` `Contextily` `PyDeck` `Datashader` `ENVI` `EarthPy` `Remote Sensing` `AlphaEarth Foundations`
 
-**Data & Compute**  
-`xarray` `zarr` `Dask` `pandas` `numpy`
+**Data Engineering**  
+`Pandas` `NumPy` `Xarray` `Dask` `Zarr` `APIs` `STAC` `Data Cubes` `Cloud-native data structures` `Workflow automation`
 
-**Cloud & Data Access**  
-`CyVerse` `STAC` `VSI/VSICURL` `earthaccess` `Planetary Computer` `Docker` `HPC/SLURM`
+**Machine Learning**  
+`Scikit-learn` `PyTorch` `TensorFlow` `Fuzzy Machine Learning` `Statistical Modeling` `Bayesian Methods` `Predictive Modeling` `Feature Engineering` `Deep Learning` `OpenCLIP / RemoteCLIP` `TorchGeo`
 
-**Modeling & Analysis**  
-`scikit-learn` `scipy` `statsmodels`
+**Cloud & Data Access Infrastructure**  
+`AWS (S3, EC2)` `Docker` `HPC/SLURM` `CyVerse` `Planetary Computer` `VSI/VSICURL` `earthaccess` `Cloud-native geospatial workflows` `Version-controlled reproducible pipelines`
+
+**Scientific Computing, Modeling & Analysis**  
+`SciPy` `Statsmodels` `Parallel Computing` `Large Geospatial Datasets` `Environmental Modeling` `NetworkX` `MODFLOW` `Visual MODFLOW` `ParFlow` `AQTESOLV` `Stella 7` `CESM`
 
 **Visualization**  
-`matplotlib` `hvplot` `folium` `seaborn`
+`Matplotlib` `Seaborn` `HoloViews/hvPlot` `Folium` `Tableau`
 
-**Remote Sensing & Data Sources**  
-`Landsat` `Sentinel-2` `MODIS` `NLCD` `EMIT` `Hyperspectral` `SSURGO` `NHD` `NWIS` `NOAA` `3DEP/lidar`
+**Remote Sensing & Earth Observation**  
+`Landsat` `Sentinel-2` `MODIS` `EMIT Hyperspectral` `Copernicus` `NLCD` `SSURGO` `NHD` `NWIS` `NOAA` `3DEP/LiDAR`
 
 **Version Control**  
 `Git` `GitHub`
+
+**Platforms**  
+`Linux` `Windows` `HPC (CURC, ACCESS)` `Cloud (AWS S3, CyVerse)`
 
 ## Leadership & Service
 
