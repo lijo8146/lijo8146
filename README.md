@@ -39,8 +39,6 @@ I created a series exploring common gaming algorithms and systems design concept
 
 ## Tools & Stack
 
-## Tools & Stack
-
 **Languages & Environments**  
 `Python` `R` `C` `Fortran` `Bash` `SQL/MySQL` `Jupyter` `VS Code` `Linux`
 
