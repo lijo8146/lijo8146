@@ -8,7 +8,7 @@ CIRES Earth and ESIIL Labs · University of Colorado Boulder
 ## About
 I am a hydrogeologist and environmental hazards modeler working at CIRES Earth and ESIIL Labs at the University of Colorado Boulder. As part of the Education Team, I am one of the instructors for our Graduate Earth Data Science Certificate program, ESIIL Stars, and the Data Short Course. I also participate in the many Hackathons we offer throughout the year. My work focuses on predictive modeling, hydrogeologic analysis, and geospatial data science. I build reproducible computational pipelines that translate environmental complexity into actionable models.
 
-Current CIRES-funded research includes Shadow Ecology - a deep learning method I'm developing to investigate whether model residuals can be leveraged to improve predictions in data- and sensor-poor regions.
+Current CIRES-funded research includes Shadow Ecology - a deep learning method I'm developing to investigate whether model residuals can be leveraged to improve predictions in data- and sensor-poor regions. I am also an educator at Earth Lab and ESIIL; educational materials, including data cubes and several modeling pipelines I've taught and/or developed can be found here: **[ESIIL Education](https://github.com/cu-esiil-edu)**. 
 
 I am also the co-owner and primary data scientist of **[Daear Consulting, LLC](https://github.com/daearconsulting)**, currently partnering with **[Oglala Lakota College](https://github.com/olc-techsupport)** on a USDA-NIFA funded grant to build hydrologic and agricultural data cubes for analysis, teaching, and Tribal data sovereignty workflows.
 
