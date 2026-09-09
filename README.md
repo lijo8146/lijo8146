@@ -3,9 +3,9 @@
 **Geospatial Data Scientist · Hydrogeologist · Environmental Hazards Modeler · Instructor**  
 CIRES Earth and ESIIL Labs · University of Colorado Boulder
 
-[Portfolio](https://lijo8146.github.io/) ·
-[LinkedIn](https://www.linkedin.com/in/lillyjones3/) ·
-[Daear Consulting](https://daearconsulting.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=flat&logo=github&logoColor=white)](https://lijo8146.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lillyjones3-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lillyjones3/)
+[![Daear Consulting](https://img.shields.io/badge/Daear_Consulting-Visit-0D9488?style=flat&logoColor=white)](https://daearconsulting.com/)
 
 I build reproducible workflows for environmental modeling, remote sensing,
 and water resources. My work connects hydrogeologic analysis, spatial
