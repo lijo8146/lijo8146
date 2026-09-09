@@ -1,89 +1,70 @@
 # Lilly Jones, PhD
-**Instructor · Environmental Hazards Modeler · Geospatial Data Scientist**  
+
+**Geospatial Data Scientist · Hydrogeologist · Environmental Hazards Modeler · Instructor**  
 CIRES Earth and ESIIL Labs · University of Colorado Boulder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lillyjones3-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lillyjones3/)
-[![Daear Consulting](https://img.shields.io/badge/GitHub-daearconsulting-181717?style=flat&logo=github)](https://github.com/daearconsulting)
+[Portfolio](https://lijo8146.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/lillyjones3/) ·
+[Daear Consulting](https://daearconsulting.com/)
 
-## About
-I am a hydrogeologist and environmental hazards modeler working at CIRES Earth and ESIIL Labs at the University of Colorado Boulder. As part of the Education Team, I am one of the instructors for our Graduate Earth Data Science Certificate program, ESIIL Stars, and the Data Short Course. I also participate in the many Hackathons we offer throughout the year. My work focuses on predictive modeling, hydrogeologic analysis, and geospatial data science. I build reproducible computational pipelines that translate environmental complexity into actionable models.
+I build reproducible workflows for environmental modeling, remote sensing,
+and water resources. My work connects hydrogeologic analysis, spatial
+machine learning, and geospatial data engineering with research and teaching.
 
-Current CIRES-funded research includes Shadow Ecology - a deep learning method I'm developing to investigate whether model residuals can be leveraged to improve predictions in data- and sensor-poor regions. I am also an instructor producing educational materials, including data cubes and several modeling pipelines I've taught and/or developed can be found here: **[ESIIL Education](https://github.com/cu-esiil-edu)**. 
+## Selected Work
 
-I am also the primary data scientist of **[Daear Consulting, LLC](https://github.com/daearconsulting)**, currently partnering with **[Oglala Lakota College](https://github.com/olc-techsupport)** on a USDA-NIFA funded grant to build hydrologic and agricultural data cubes for analysis, teaching, and Tribal data sovereignty workflows.
+| Project | Focus and contribution |
+|---|---|
+| [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | Public-data prototype combining mining records, watershed and stream layers, provenance metadata, and a demonstration map for the Black Hills. Includes reproducible setup and validation checks. |
+| [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) | CIRES-funded research investigating whether spatial patterns in land-cover model errors can reveal missing environmental information and monitoring gaps. I lead the project as principal investigator. |
+| [Systems at Play](https://github.com/lijo8146/systems_at_play) | Computational experiments using games, puzzles, and simulations to teach probability, algorithms, and systems thinking. |
+| [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | A demonstration repository for introducing interdisciplinary teams to collaborative computational research. |
 
-As a Tribal college graduate and former Tribal college faculty member at Oglala Lakota College, I am committed to sovereignty-aligned workflows and reproducible science that centers Tribal partners in environmental research.
+## Research and Partnerships
 
-## Portfolio
+My research interests include surface water, groundwater, fire modeling and Earth systems modeling,
+fire–vegetation prediction, multispectral remote sensing, and the spatial
+structure of model residuals.
 
-| Focus | Featured work | What it offers |
-|---|---|---|
-| Teach | [Systems at Play](https://github.com/lijo8146/systems_at_play) · [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | Accessible, reusable computational learning materials that connect code, modeling, and systems thinking for students and interdisciplinary learners. |
-| Research | [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) · [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | Examples of geospatial and remote-sensing analysis, with an emphasis on reproducible workflows and interpretable computational methods. |
-| Collaborate | [Daear Consulting](https://daearconsulting.com/) · [Oglala Lakota College](https://github.com/olc-techsupport) | Partnership-oriented data science and educational projects grounded in reproducibility, practical learning, and sovereignty-aligned environmental research. |
+As the primary data scientist at
+[Daear Consulting, LLC](https://github.com/daearconsulting),
+I partner with [Oglala Lakota College](https://github.com/olc-techsupport) 
+on a USDA-NIFA-funded project developing hydrologic and agricultural workflows and 
+data cubes for analysis, teaching, and Tribal data sovereignty.
 
-## Research Focus
-- Hydrogeologic and Earth systems modeling
-- Fire–vegetation predictive modeling
-- Multispectral remote sensing integration
-- Geospatial structure in model residuals
-- Geospatial data engineering & data cubes
-- Environmental hazard risk modeling
-- Reproducible computational workflows
-- Tribal Data Science
-- Tribal Data Sovereignty
+## Teaching and Collaboration
 
-## Games
+At CU Boulder, I teach in the Graduate Earth Data Science Certificate
+program, ESIIL Stars, and the Data Short Course. I develop and teach
+materials covering environmental data analysis, data cubes, and
+modeling workflows, and participate in research hackathons.
 
-I created a series exploring common gaming algorithms and systems design concepts here: [Systems at Play](https://github.com/lijo8146/systems_at_play)
+Explore our shared instructional repositories:
+[ESIIL Education](https://github.com/cu-esiil-edu).
 
-## Tools & Stack
+## Technical Skills
 
-**Languages & Environments**  
-`Python` `R` `C` `Fortran` `Bash` `SQL/MySQL` `Jupyter` `VS Code` `Linux`
+- **Programming:** Python, R, SQL, Bash, C, Fortran
+- **Geospatial analysis:** GeoPandas, Rasterio, GDAL, QGIS, ArcGIS Pro
+- **Data engineering:** Xarray, Dask, Zarr, STAC, API-based data access
+- **Machine learning:** Scikit-learn, PyTorch, TensorFlow, spatial and statistical modeling
+- **Hydrologic modeling:** MODFLOW, ParFlow, AQTESOLV
+- **Computing and reproducibility:** Git, GitHub, Docker, AWS, HPC/SLURM
+- **Visualization:** Matplotlib, HoloViews/hvPlot, Folium, Tableau
 
-**Geospatial**  
-`ArcGIS Pro` `QGIS` `GDAL/OGR` `Rasterio` `GeoPandas` `Shapely` `Fiona` `PyProj` `rtree` `OSMnx` `H3` `GeoPy` `GeoTessera` `GeoTessellation` `Contextily` `PyDeck` `Datashader` `ENVI` `EarthPy` `Remote Sensing` `AlphaEarth Foundations`
+## Leadership and Service
 
-**Data Engineering**  
-`Pandas` `NumPy` `Xarray` `Dask` `Zarr` `APIs` `STAC` `Data Cubes` `Cloud-native data structures` `Workflow automation`
-
-**Machine Learning**  
-`Scikit-learn` `PyTorch` `TensorFlow` `Fuzzy Machine Learning` `Statistical Modeling` `Bayesian Methods` `Predictive Modeling` `Feature Engineering` `Deep Learning` `OpenCLIP / RemoteCLIP` `TorchGeo`
-
-**Cloud & Data Access Infrastructure**  
-`AWS (S3, EC2)` `Docker` `HPC/SLURM` `CyVerse` `Planetary Computer` `VSI/VSICURL` `earthaccess` `Cloud-native geospatial workflows` `Version-controlled reproducible pipelines`
-
-**Scientific Computing, Modeling & Analysis**  
-`SciPy` `Statsmodels` `Parallel Computing` `Large Geospatial Datasets` `Environmental Modeling` `NetworkX` `MODFLOW` `Visual MODFLOW` `ParFlow` `AQTESOLV` `Stella 7` `CESM`
-
-**Visualization**  
-`Matplotlib` `Seaborn` `HoloViews/hvPlot` `Folium` `Tableau`
-
-**Remote Sensing & Earth Observation**  
-`Landsat` `Sentinel-2` `MODIS` `EMIT Hyperspectral` `Copernicus` `NLCD` `SSURGO` `NHD` `NWIS` `NOAA` `3DEP/LiDAR`
-
-**Version Control**  
-`Git` `GitHub`
-
-**Platforms**  
-`Linux` `Windows` `HPC (CURC, ACCESS)` `Cloud (AWS S3, CyVerse)`
-
-## Leadership & Service
-
-| Role                       | Description                                                        |
-| -------------------------- | ------------------------------------------------------------------ |
-| **Instructor**             | Earth Data Science Graduate Certificate courses, ESIIL Stars, Data Short Course CU Boulder               |
-| **Principal Investigator** | *Shadow Ecology: Model Residuals as Signal*, CIRES, CU Boulder     |
-| **Owner / Data Scientist** | Daear Consulting, LLC USDA-NIFA grant with Oglala Lakota College |
-| **Participant**            | American Geophysical Union *Voices in Science*                   |
-| **Former Faculty**         | Oglala Lakota College                                              |
+- **Principal Investigator:** Shadow Ecology, CIRES, CU Boulder
+- **Lead Data Scientist:** Daear Consulting, LLC
+- **Former Faculty:** Oglala Lakota College
+- **Participant:** American Geophysical Union Voices in Science
 
 ## Education
+
 **PhD, Geology and Geological Engineering** · 2021  
 South Dakota School of Mines and Technology
 
 **BS, Interdisciplinary Earth and Environmental Sciences** · 2013  
 Oglala Lakota College
 
-If you're looking for my "old" GitHub, find it here **[Yawapi](https://github.com/Yawapi)**
+Earlier projects: [Yawapi](https://github.com/Yawapi)
