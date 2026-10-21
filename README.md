@@ -12,7 +12,7 @@ change. My work brings together hydrogeology, fire science, remote sensing, spat
 learning, and geospatial data engineering.
 
 Across research, consulting, and teaching, I develop workflows that people can
-inspect, adapt, and build on—with attention to data provenance, uncertainty,
+inspect, adapt, and build on with attention to data provenance, uncertainty,
 and Tribal data governance.
 
 ## Selected Work
