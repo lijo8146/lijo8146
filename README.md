@@ -19,6 +19,10 @@ and Tribal data governance.
 
 | Project | Focus |
 |---|---|
+| [EMIT Mineral Exploration](https://github.com/lijo8146/EMIT-mineral-exploration) | A sample workflow exploring NASA EMIT imaging spectroscopy data for mineral exploration. |
+| [LiDAR Forest Structure](https://github.com/lijo8146/lidar-forest-structure) | Reproducible point-cloud processing for terrain and vegetation structure, including coordinate validation, ground classification comparisons, feature extraction, and documented quality checks. |
+| [Tribal Fire Science and Stewardship](https://github.com/lijo8146/tribal-fire-stewardship) | An exploratory learning series connecting public fire-history data, Tribal fire stewardship, and monitoring design, with attention to Nation-defined research questions and data governance. |
+| [Geospatial Machine Learning](https://github.com/lijo8146/geospatial_machine_learning) | A guided series of 17 lessons covering spatial foundations, satellite change detection, neural networks, Earth embeddings, semantic retrieval, and active learning, with exercises and real-data extensions. |
 | [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | A public-data prototype for the Black Hills mining landscape, combining USGS mining records, watershed and stream layers, record-level provenance, and an interactive demonstration map. Includes reproducible environments and validation checks. |
 | [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) | CIRES-funded pilot research testing whether spatial patterns in land-cover model errors can help identify unmodeled environmental processes and monitoring gaps. I lead the project as principal investigator. |
 | [Wyoming Drought Analysis](https://github.com/lijo8146/pdsi_wyoming) | Interactive exploration of Palmer Drought Severity Index across the Snake, Green, and Wind River basins in western Wyoming. |
