@@ -7,39 +7,51 @@ CIRES Earth and ESIIL Labs · University of Colorado Boulder
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lillyjones3-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lillyjones3/)
 [![Daear Consulting](https://img.shields.io/badge/Daear_Consulting-Visit-0D9488?style=flat&logoColor=white)](https://daearconsulting.com/)
 
-I build reproducible workflows for environmental modeling, remote sensing,
-and water resources. My work connects hydrogeologic analysis, spatial
-machine learning, and geospatial data engineering with research and teaching.
+I build reproducible tools for understanding water, landscapes, and environmental
+change. My work brings together hydrogeology, fire science, remote sensing, spatial machine
+learning, and geospatial data engineering.
+
+Across research, consulting, and teaching, I develop workflows that people can
+inspect, adapt, and build on—with attention to data provenance, uncertainty,
+and Tribal data governance.
 
 ## Selected Work
 
-| Project | Focus and contribution |
+| Project | Focus |
 |---|---|
-| [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | Public-data prototype combining mining records, watershed and stream layers, provenance metadata, and a demonstration map for the Black Hills. Includes reproducible setup and validation checks. |
-| [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) | CIRES-funded research investigating whether spatial patterns in land-cover model errors can reveal missing environmental information and monitoring gaps. I lead the project as principal investigator. |
-| [Systems at Play](https://github.com/lijo8146/systems_at_play) | Computational experiments using games, puzzles, and simulations to teach probability, algorithms, and systems thinking. |
-| [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | A demonstration repository for introducing interdisciplinary teams to collaborative computational research. |
+| [He Sapa Twin](https://github.com/lijo8146/hesapatwin) | A public-data prototype for the Black Hills mining landscape, combining USGS mining records, watershed and stream layers, record-level provenance, and an interactive demonstration map. Includes reproducible environments and validation checks. |
+| [Shadow Ecology](https://github.com/lijo8146/shadow-ecology) | CIRES-funded pilot research testing whether spatial patterns in land-cover model errors can help identify unmodeled environmental processes and monitoring gaps. I lead the project as principal investigator. |
+| [Wyoming Drought Analysis](https://github.com/lijo8146/pdsi_wyoming) | Interactive exploration of Palmer Drought Severity Index across the Snake, Green, and Wind River basins in western Wyoming. |
+| [Earth Data Cubes](https://github.com/lijo8146/lexcube) | A demonstration of building a data cube for Earth data science. |
+| [Systems at Play](https://github.com/lijo8146/systems_at_play) | Educational experiments exploring probability, algorithms, strategy, and emergent behavior through games, puzzles, and simplified simulations. |
+| [Scientists Who Code](https://github.com/lijo8146/scientists_who_code_demo_repo) | A demonstration project introducing interdisciplinary research teams to collaborative computational workflows. |
 
 ## Research and Partnerships
 
-My research interests include surface water, groundwater, fire modeling and Earth systems modeling,
-fire–vegetation prediction, multispectral remote sensing, and the spatial
-structure of model residuals.
+My research focuses on surface water and groundwater, environmental hazards,
+fire dynamics, and Earth systems modeling. I use multispectral
+remote sensing and spatial statistics to investigate landscape processes,
+model uncertainty, and the environmental information missing from our datasets.
 
-As the primary data scientist at
-[Daear Consulting, LLC](https://github.com/daearconsulting),
-I partner with [Oglala Lakota College](https://github.com/olc-techsupport) 
-on a USDA-NIFA-funded project developing hydrologic and agricultural workflows and 
-data cubes for analysis, teaching, and Tribal data sovereignty.
+As lead data scientist at [Daear Consulting, LLC](https://daearconsulting.com/),
+I partner with [Oglala Lakota College](https://github.com/olc-techsupport)
+on a USDA-NIFA-funded project developing hydrologic and agricultural workflows
+and data cubes for analysis and teaching, with Tribal data sovereignty
+as a central priority.
 
 ## Teaching and Collaboration
 
-At CU Boulder, I teach in the Graduate Earth Data Science Certificate
-program, ESIIL Stars, and the Data Short Course. I develop and teach
-materials covering environmental data analysis, data cubes, and
-modeling workflows, and participate in research hackathons.
+At CU Boulder, I teach in the Graduate Earth Data Science Certificate program,
+ESIIL Stars, and the Data Short Course. I develop instructional materials
+covering environmental data analysis, remote sensing, data cubes, and
+reproducible modeling.
 
-Explore our shared instructional repositories:
+My teaching connects computational methods to practical environmental
+questions and helps learners build confidence working with code, spatial
+data, and collaborative research tools. I also participate in research
+hackathons and interdisciplinary team science.
+
+Explore our shared instructional materials:
 [ESIIL Education](https://github.com/cu-esiil-edu).
 
 ## Technical Skills
@@ -67,4 +79,5 @@ South Dakota School of Mines and Technology
 **BS, Interdisciplinary Earth and Environmental Sciences** · 2013  
 Oglala Lakota College
 
-Earlier projects: [Yawapi](https://github.com/Yawapi)
+Explore [all repositories](https://github.com/lijo8146?tab=repositories)
+or visit earlier projects at [Yawapi](https://github.com/Yawapi).
